@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "459944608513",
+    "firebase_url": "https://friendtracker-36110.firebaseio.com",
+    "project_id": "friendtracker-36110",
+    "storage_bucket": "friendtracker-36110.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459944608513:android:c20cf46360f495bb409100",
+        "android_client_info": {
+          "package_name": "la.friendtracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "459944608513-8rd50atefuv9887o13j44bdkher0lhf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "la.friendtracker",
+            "certificate_hash": "d61e5793111de775de634b01e4f9bfde2a0eaa54"
+          }
+        },
+        {
+          "client_id": "459944608513-101gkgcbqckev2flm14jsuhi1ou2aje9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8Z7mXKa6rY-B45tw9ijuw2fbKSzysYWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "459944608513-101gkgcbqckev2flm14jsuhi1ou2aje9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

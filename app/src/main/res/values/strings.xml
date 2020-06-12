@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">FriendTracker</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_explore">Explore</string>
+    <string name="menu_friend_request">Friend Request</string>
+    <string name="email_placeholder">My Email Here</string>
+    <string name="system_title">System</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="user_view">Placeholder</string>
+    <string name="mt_search_hint">Enter Email</string>
+    <string name="title_activity_tracking">Map</string>
+
+
+</resources>
